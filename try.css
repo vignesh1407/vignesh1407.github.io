@@ -4,7 +4,7 @@
 }
 .d1{
   width: auto;
-  height: 320px;
+  height: 280px;
   background-color: hsl(0,0%,.5%);
   color: white;
   margin: 0;
@@ -70,4 +70,12 @@ a{
   color:  hsla(207, 64%, 48%, 1);
   font-size: 24;
   margin-top: 10px;
+}
+.content3{
+ width: auto;
+  height: 180px;
+  background-color: hsl(204,8%,95s%);
+  color: black;
+ 
+margin-left: 30px;
 }
