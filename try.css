@@ -88,8 +88,15 @@ a{
 .content3{
  width: auto;
   height: 180px;
-  background-color: hsl(204,8%,95s%);
-  color: black;
+  background-color: hsl(204,8%,95%);
+  
  
-margin-left: 30px;
+
+}
+.content31{
+  width: auto;
+  height: 180px;
+  background-color: hsl(204,8%,95%);
+  color: black;
+  margin-left: 30px;
 }
