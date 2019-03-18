@@ -60,7 +60,7 @@ hr {
 }
 
 .d2:hover {
-        overflow: auto;
+        overflow: scroll;
 }
 
 div.d2{
