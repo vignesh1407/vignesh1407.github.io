@@ -82,7 +82,7 @@ margin-right: 80px;
 .in1{ 
                 float:left;  
                 width:5%; 
-                height:300px; 
+               /* height:300px; */
             }
 .in-topic{
   width:auto;
