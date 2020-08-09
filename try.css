@@ -79,6 +79,11 @@ div.d2:hover {
   margin-left: 30px;
 margin-right: 80px;
 }
+.in1{ 
+                float:left;  
+                width:5%; 
+                height:300px; 
+            }
 .in-topic{
   width:auto;
   height: auto;
