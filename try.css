@@ -79,6 +79,12 @@ div.d2:hover {
   margin-left: 30px;
 margin-right: 80px;
 }
+.in-topic{
+  width:auto;
+  height: auto;
+  margin-left: 90px;
+margin-right: 120px;
+}
 
 a{
   color:  hsla(207, 64%, 48%, 1);
