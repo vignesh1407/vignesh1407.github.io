@@ -82,15 +82,14 @@ margin-right: 80px;
 .in1{ 
                 float:left;  
                 width:5%; 
-  height:20px;
+  height:auto;
                /* height:300px; */
             }
 .in-topic{
   width:90%;
-  height: 120px;
+  height: auto;
   margin-left: 100px;
   float: center;
-background-color: green;
 }
 
 a{
